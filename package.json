@@ -12,7 +12,7 @@
     "body-parser": "^1.18.3",
     "cookie-parser": "^1.4.4",
     "express": "^4.16.4",
-    "file-type": "^10.9.0",
+    "file-type": "^16.5.4",
     "firebase-admin": "^7.0.0",
     "firebaseauth": "^1.0.0",
     "jsonwebtoken": "^8.5.0",
